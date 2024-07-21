@@ -1,3 +1,3 @@
-# course_tusk_app
+# Daily Health App
 
-A new Flutter project.
+
